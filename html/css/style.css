@@ -34,11 +34,11 @@ body {
 }
 
 .primary {
-    background-color: rgba(44, 63, 80, 0.85);
+    background-color: rgba(44, 67, 87, 0.85);
     color: #ffffff;
 }
 
 .error {
-    background: rgba(181, 82, 85, 0.85);
+    background: rgba(189, 12, 18, 0.85);
     color: #fff;
 }
